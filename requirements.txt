@@ -2,5 +2,4 @@ pandas
 matplotlib
 plotly
 seaborn
-os
 numpy
