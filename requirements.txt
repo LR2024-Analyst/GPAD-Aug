@@ -1,6 +1,8 @@
-pandas 
+pandas
+sqlalchemy
 matplotlib
 plotly
 seaborn
 numpy
-Jupyter
+streamlit
+jupyter
