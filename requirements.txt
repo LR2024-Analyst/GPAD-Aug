@@ -1,7 +1,7 @@
 pandas 
 matplotlib.pyplot
 plotly
-import seaborn
+seaborn
 matplotlib.dates
 os
 numpy
