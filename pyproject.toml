@@ -1,0 +1,20 @@
+[project]
+name = "lr-project1"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "ipykernel>=6.30.1",
+    "matplotlib>=3.10.5",
+    "nbformat>=5.10.4",
+    "numpy>=2.3.2",
+    "pandas>=2.3.1",
+    "plotly>=6.3.0",
+    "pyodbc>=5.2.0",
+    "scipy>=1.16.1",
+    "seaborn>=0.13.2",
+    "skimpy>=0.0.18",
+    "sqlalchemy>=2.0.43",
+    "streamlit>=1.49.0",
+]
