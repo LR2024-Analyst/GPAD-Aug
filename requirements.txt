@@ -1,7 +1,6 @@
 pandas 
-matplotlib.pyplot
+matplotlib
 plotly
 seaborn
-matplotlib.dates
 os
 numpy
